@@ -1,0 +1,23 @@
+{
+  "name": "josh-cp02",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshua-lake/josh-CP02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshua-lake/josh-CP02/issues"
+  },
+  "homepage": "https://github.com/joshua-lake/josh-CP02#readme",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
